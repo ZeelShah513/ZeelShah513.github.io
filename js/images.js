@@ -1,55 +1,55 @@
 var imgnames = [
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/0.png"
+        name : "images/graphics/0.png"
     },
     
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/3.jpg"
+        name : "images/graphics/3.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/4.jpg"
+        name : "images/graphics/4.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/9.jpg"
+        name : "images/graphics/9.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/10.jpg"
+        name : "images/graphics/10.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/14.jpg"
+        name : "images/graphics/14.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/15.jpg"
+        name : "images/graphics/15.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/16.jpg"
+        name : "images/graphics/16.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/17.jpg"
+        name : "images/graphics/17.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/20.jpg"
+        name : "images/graphics/20.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/23.jpg"
+        name : "images/graphics/23.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/27.jpg"
+        name : "images/graphics/27.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/28.jpg"
+        name : "images/graphics/28.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/29.jpg"
+        name : "images/graphics/29.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/31.jpg"
+        name : "images/graphics/31.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/34.jpg"
+        name : "images/graphics/34.jpg"
     },
     {
-        name : "https://github.com/ZeelShah513/ZeelShah513.github.io/blob/master/images/graphics/38.jpg"
+        name : "images/graphics/38.jpg"
     }
 ]
 
